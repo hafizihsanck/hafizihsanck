@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Tea**
 
--[![telegram badge](https://img.shields.io/badge/-ihsan_bin_ahmd-blue?style=flat&logo=telegram)](https://t.me/ihsan_bin_ahmd)
+- [![telegram badge](https://img.shields.io/badge/-ihsan_bin_ahmd-blue?style=flat&logo=telegram)](https://t.me/ihsan_bin_ahmd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
