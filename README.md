@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm hafizihsanck</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!--
-**hafizihsanck/hafizihsanck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [dexy-x](https://github.com/hafizihsanck/Daisy-X)
 
-Here are some ideas to get you started:
+- 🤝 I’m looking for help with [Telegram](https://t.me/ihsan_bin_ahmd)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://t.me/ihsan_bin_ahmd](https://t.me/ihsan_bin_ahmd)
+
+- 📝 I regularly write articles on [https://t.me/ihsan_bin_ahmd](https://t.me/ihsan_bin_ahmd)
+
+- 💬 Ask me about **I am student**
+
+- 📫 How to reach me **ihsanbinahmd@gmail.com**
+
+- ⚡ Fun fact **Tea**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/ihsan bin ahmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ihsan bin ahmd" height="30" width="40" /></a>
+<a href="https://instagram.com/ihsan_bin_ahmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ihsan_bin_ahmd" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizihsanck&show_icons=true&locale=en" alt="hafizihsanck" /></p>
