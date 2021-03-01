@@ -5,9 +5,9 @@
 
 - 🤝 I’m looking for help with [Telegram](https://t.me/ihsan_bin_ahmd)
 
-- 👨‍💻 All of my projects are available at [https://t.me/ihsan_bin_ahmd](https://t.me/ihsan_bin_ahmd)
+- 👨‍💻 All of my projects are available at [Telegram](https://t.me/ihsan_bin_ahmd)
 
-- 📝 I regularly write articles on [https://t.me/ihsan_bin_ahmd](https://t.me/ihsan_bin_ahmd)
+- 📝 I regularly write articles on [ihsan_bin_ahmd](https://t.me/ihsan_bin_ahmd)
 
 - 💬 Ask me about **I am student**
 
