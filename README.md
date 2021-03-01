@@ -5,11 +5,11 @@
 
 - 🤝 I’m looking for help with [Telegram](https://t.me/ihsan_bin_ahmd)
 
-- 👨‍💻 All of my projects are available at [Telegram](https://t.me/ihsan_bin_ahmd)
+- 👨‍💻 i am [Telegram](https://t.me/ihsan_bin_ahmd) project Only
 
 - 📝 I regularly write articles on [ihsan_bin_ahmd](https://t.me/ihsan_bin_ahmd)
 
-- 💬 Ask me about **I am student**
+- 💬 Ask me about  [![telegram badge](https://img.shields.io/badge/-ihsan_bin_ahmd-blue?style=flat&logo=telegram)](https://t.me/ihsan_bin_ahmd)
 
 - 📫 How to reach me **ihsanbinahmd@gmail.com**
 
