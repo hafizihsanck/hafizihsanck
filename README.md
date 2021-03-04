@@ -11,7 +11,7 @@
 
 - 💬 Ask me about  [![telegram badge](https://img.shields.io/badge/-ihsan_bin_ahmd-blue?style=flat&logo=telegram)](https://t.me/ihsan_bin_ahmd)
 
-- 📫 How to reach me ihsanbinahmd@gmail.com
+- 📫 How to reach me [email]: mailto:ihsanbinahmd@gmail.com
 
 
 - ⚡ Fun fact black tea
