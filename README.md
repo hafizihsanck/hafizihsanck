@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm hafizihsanck</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- <🔭 I’m currently working on [dexy-x](https://github.com/hafizihsanck/Daisy-X)>
+- </🔭 I’m currently working on [dexy-x](https://github.com/hafizihsanck/Daisy-X)/>
 
 - 🤝 I’m looking for help with [Telegram](https://t.me/ihsan_bin_ahmd)
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about  [![telegram badge](https://img.shields.io/badge/-ihsan_bin_ahmd-blue?style=flat&logo=telegram)](https://t.me/ihsan_bin_ahmd)
 
-- 📫 How to reach me [![email badge]ihsanbinahmd@gmail.com
+- 📫 How to reach me [![emailbadge]ihsanbinahmd@gmail.com
 
 
 - ⚡ Fun fact black tea☕
