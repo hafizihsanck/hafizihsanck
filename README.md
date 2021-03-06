@@ -9,10 +9,7 @@
 
 - 📝 I regularly write articles on [ihsan_bin_ahmd](https://t.me/ihsan_bin_ahmd)
 
-- 💬 Ask me about  [![telegram badge](https://img.shields.io/badge/-ihsan_bin_ahmd-blue?style=flat&logo=telegram)](https://t.me/ihsan_bin_ahmd)
-
-- 📫 How to reach me [![emailbadge](ihsanbinahmd@gmail.com)
-
+- *💬 Ask me about*  [![telegram badge](https://img.shields.io/badge/-ihsan_bin_ahmd-blue?style=flat&logo=telegram)](https://t.me/ihsan_bin_ahmd)
 
 - ⚡ Fun fact black tea☕
 
