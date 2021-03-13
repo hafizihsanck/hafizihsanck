@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm hafizihsanck</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- "🔭 I’m currently working on"[dexy-x](https://github.com/hafizihsanck/Daisy-X)
+- "🔭 I’m student🧑
 
 - 🤝 I’m looking for help with [Telegram](https://t.me/ihsan_bin_ahmd)
 
