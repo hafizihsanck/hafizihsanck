@@ -12,6 +12,11 @@
 - *💬 Ask me about*  [![telegram badge](https://img.shields.io/badge/-ihsan_bin_ahmd-blue?style=flat&logo=telegram)](https://t.me/ihsan_bin_ahmd)
 
 - ⚡ Fun fact black tea☕
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+[![email](https://img.shields.io/badge/-ihsan_bin_ahmd-c14438?style=flat&logo=Gmail&logoColor=white)](bin_ahmd:ihsanbinahmd@gmail.com)
+&nbsp;
 
 ### Contact
 - [![telegram badge](https://img.shields.io/badge/-bi.ahmd-blue?style=flat&logo=telegram)](https://t.me/ihsan_bin_ahmd)
@@ -24,3 +29,4 @@
 <a href="https://t.me/ihsan_bin_ahmd" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizihsanck&show_icons=true&locale=en" alt="hafizihsanck" /></p>
+
