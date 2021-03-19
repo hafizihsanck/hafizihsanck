@@ -20,9 +20,7 @@
 <p align="left">
 <a href="https://fb.com/ihsan bin ahmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ihsan bin ahmd" height="30" width="40" /></a>
 <a href="https://instagram.com/ihsan_bin_ahmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ihsan_bin_ahmd" height="30" width="40" /></a>
-</p>
-
-<p align="left">
+</p> <p align="left">
 <a href="https://t.me/ihsan_bin_ahmd" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizihsanck&show_icons=true&locale=en" alt="hafizihsanck" /></p>
